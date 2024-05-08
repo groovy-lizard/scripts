@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sshfs lucasceschini@ica:/share_zeta ~/Documents/ica/share_zeta

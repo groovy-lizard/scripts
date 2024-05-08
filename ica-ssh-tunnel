@@ -1,0 +1,2 @@
+#!/bin/bash
+sshpass -p Nu8Z9X5p7Q@3 ssh -L 4200:gpunode-1-2:4200 lucasceschini@ica

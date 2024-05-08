@@ -1,0 +1,4 @@
+#!/bin/bash
+export HISTIGNORE='*sudo -S*'
+
+echo "koboldcandle" | sudo -S -k openvpn --config ~/Documents/ufrgs/.vpn-ufrgs.ovpn --auth-user-pass ~/Documents/ufrgs/.vpn-pass.txt
